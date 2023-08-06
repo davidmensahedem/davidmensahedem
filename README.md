@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Edem Mensah</h1>
-<h3 align="center">I am a Software Engineer with a track record in applications that provide services to a wide range of people.</h3>
+<h3 align="center">I am a Software Engineer with a track record in building web applications that provide services to a wide range of professionals and organizations.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidmensahedem&label=Profile Views&color=0e75b6&style=flat" alt="David Edem Mensah" /> </p>
 
